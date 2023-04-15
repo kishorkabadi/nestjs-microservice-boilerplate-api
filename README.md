@@ -142,8 +142,8 @@ Creating a crud in Postgres and Mongo in seconds.
 - Interface Adapter Pattern
 - Swaggger Documentation
 - Generic Repository Pattern
-  - Mongo Repository
-  - Postgres Repository
+  - Mongo Repository(mongoose)
+  - Postgres Repository(typeorm)
 - Cache Service
   - Redis
   - NodeCache
